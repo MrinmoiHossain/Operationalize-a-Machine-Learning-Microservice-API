@@ -6,7 +6,8 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath="mrinmoi/api"
+dockerpath="mrinmoi/mlapi"
+
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
